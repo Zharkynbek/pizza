@@ -363,7 +363,7 @@ body .wrap-body {
 /* ---------------------------------------------------------------------------- */
 #top {
   background: #000;
-  padding: 6px 0;
+  padding: 60px 0;
   color: #bdbdbd;
   font-size: 13px;
 }
@@ -451,7 +451,7 @@ header {
 }
 header.sub-header {
   background: #1d2027;
-  min-height: 120px;
+  min-height: 0px;
 }
 header .wrap-header {
 }
@@ -507,7 +507,7 @@ header .main-header {
 /* ------------------------------------Menu------------------------------------ */
 /* ---------------------------------------------------------------------------- */
 .wrap-menu {
-  background: #2b2d3f;
+  background: black;
 }
 #menu {
   border-radius: 0;
