@@ -510,6 +510,7 @@ header .main-header {
   background: black;
 }
 #menu {
+  height: 450px;
   border-radius: 0;
   padding: 40px 0;
   text-transform: uppercase;
